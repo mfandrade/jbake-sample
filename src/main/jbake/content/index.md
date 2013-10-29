@@ -6,7 +6,7 @@ status=published
 
 PROJETO DE LEI DE INICIATIVA POPULAR
 
-Projeto de Lei nº ___, de ______________ de 2013.
+Projeto de Lei nº \_\_, de \_\_\_\_\_\_\_ de 2013.
 
     Ementa: Institui o Plano Diretor de Transporte e
     Infraestrutura, cria o Fundo Nacional de Transportes,
