@@ -8,10 +8,10 @@ PROJETO DE LEI DE INICIATIVA POPULAR
 
 Projeto de Lei nº ___, de ______________ de 2013.
 
-		Ementa: Institui o Plano Diretor de Transporte e
-		Infraestrutura, cria o Fundo Nacional de Transportes,
-		normatiza as concessões rodoviárias no Brasil, define
-		natureza jurídica do pedágio e dá outras providências. 
+    Ementa: Institui o Plano Diretor de Transporte e
+    Infraestrutura, cria o Fundo Nacional de Transportes,
+    normatiza as concessões rodoviárias no Brasil, define
+    natureza jurídica do pedágio e dá outras providências. 
 
 Art. 1º - Institui-se o Plano Diretor de Transportes e Infraestrutura, a
 normatização ao sistema de pedagiamentos e concessão rodoviária em todo
