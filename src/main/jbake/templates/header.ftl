@@ -74,7 +74,7 @@
           <li><a href="/">Quero assinar</a></li>
           <!--li><a href="/about.html"></a></li>
           <li><a href="/projects.html">Projects</a></li>
-          <li><a href="/feed.xml">Subscribe</a></li!>
+          <li><a href="/feed.xml">Subscribe</a></li-->
         </ul>
         <h3 class="muted">Plataforma IMMI</h3>
       </div>
