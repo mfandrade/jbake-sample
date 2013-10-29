@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<build>
-		<finalName>ingenieux-docs</finalName>
+		<finalName>homepage-immi-br</finalName>
 
 		<extensions>
 			<extension>
@@ -60,8 +60,8 @@
 					<fromDir>${project.build.directory}/${project.build.finalName}</fromDir>
 					<includes>**/*</includes>
 					<excludes>**/*.jsp,**/web.xml</excludes>
-					<url>s3://docs.ingenieux.com.br</url>
-					<serverId>docs.ingenieux.com.br</serverId>
+					<url>s3://www.immi-br.org</url>
+					<serverId>immibr</serverId>
 				</configuration>
 			</plugin>
 		</plugins>
