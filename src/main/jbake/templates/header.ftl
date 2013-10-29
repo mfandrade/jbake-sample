@@ -3,9 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>
-      ingenieux Labs
-      <#if (content.title)??>
-        - ${content.title}
+      <#if (index.title)??>
+        - ${index.title}
       </#if>
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -72,12 +71,12 @@
     
     <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about.html">About</a></li>
+          <li><a href="/">Quero assinar</a></li>
+          <!--li><a href="/about.html"></a></li>
           <li><a href="/projects.html">Projects</a></li>
-          <li><a href="/feed.xml">Subscribe</a></li>
+          <li><a href="/feed.xml">Subscribe</a></li!>
         </ul>
-        <h3 class="muted">ingenieux docs</h3>
+        <h3 class="muted">Plataforma IMMI</h3>
       </div>
 
       <hr>

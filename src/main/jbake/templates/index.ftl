@@ -1,7 +1,7 @@
 <#include "header.ftl">
 
       <!--<div class="jumbotron">
-        <h1>Bake your own site!</h1>
+        <h1>Fuck you very much!</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
         <a class="btn btn-large btn-success" href="#">Sign up today</a>
       </div>
