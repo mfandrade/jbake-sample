@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <title>
-      <#if (index.title)??>
-        - ${index.title}
+      <#if (content.title)??>
+        - ${content.title}
       </#if>
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="Aldrin Leal">
+    <meta name="author" content="Aldrin Leal,Leonardo Dias,Marcelo Andrade">
 
     <!-- Le styles -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -71,10 +71,12 @@
     
     <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li><a href="/">Quero assinar</a></li>
-          <!--li><a href="/about.html"></a></li>
-          <li><a href="/projects.html">Projects</a></li>
-          <li><a href="/feed.xml">Subscribe</a></li-->
+          <li><a href="/">Assinar petição</a></li>
+          <li><a href="/about.html">Sobre</a></li>
+          <li><a href="/projects.html">Projetos</a></li>
+          <li><a href="/legislacao.html">Legislação</a></li-->
+          <li><a href="/feed.xml">Saiba mais</a></li-->
+
         </ul>
         <h3 class="muted">Plataforma IMMI</h3>
       </div>
